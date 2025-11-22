@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecty&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecty&layout=compact&theme=transparent)
 
 <!--
 **fecty/fecty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
