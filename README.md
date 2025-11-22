@@ -1,5 +1,5 @@
 # Hi there 👋
-## Passionate developed from the Kashmir Valley. Interested in low-level programming in C/C++ and Rust.
+I am a passionate developer from the Kashmir Valley, specialising in low-level programming using C/C++ and Rust.
 
 # Top Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecty&layout=compact&theme=ambient_gradient&hide=html,css)
