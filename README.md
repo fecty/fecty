@@ -1,6 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+## Passionate developed from the Kashmir Valley. Interested in low-level programming in C/C++ and Rust.
 
+# Top Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecty&layout=compact&theme=ambient_gradient&hide=html,css)
+
+
+
 
 <!--
 **fecty/fecty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
