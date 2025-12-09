@@ -1,7 +1,9 @@
 
 # 💫 About Me:
 👋I am a passionate developer from the Kashmir Valley, with interests in low-level development and machine learning. 
-🔭 I have worked in Python, JavaScript(FullStack), C/C++, etc.<br>🌱 I’m currently learning Rust and React.js<br>💬 Besides programming, I enjoy cycling, trekking, camping, exercising and reading.<br>⚡ Fun fact: I learned 90% of Python using only the documentation provided with the interpreter because I was stuck in a place with no internet for 6 months. This experience solidified my ambitions in CS.
+⚡ Fun fact: I learned 90% of Python using only the documentation provided with the interpreter because I was stuck in a place with no internet for 6 months. This experience solidified my ambitions in CS.  
+🔭 I have worked in Python, JavaScript(FullStack), C/C++, etc.<br>🌱 I’m currently learning Rust and React.js  
+💬 Besides programming, I enjoy cycling, trekking, camping, exercising, photographing and reading.  
 
 
 ## 🌐 Socials:
